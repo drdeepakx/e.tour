@@ -158,7 +158,7 @@ img {
 
         /* Styling for the image within the poster */
         .poster img {
-            width: 60%;
+            width: 70%;
             height: 60%;
             object-fit: cover;
         }
@@ -199,7 +199,7 @@ img {
 
   .profile_img{
     border-radius: 50%;
-    width: 20%;
+    width: 200px;
 }
 .profile_name{
     font-size: 2em;
